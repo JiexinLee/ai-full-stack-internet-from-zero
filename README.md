@@ -20,18 +20,29 @@ Every chapter starts with the problem, explores the design decisions, and explai
 
 Topics include:
 
-- Networking
+- How The Internet Works
 - HTTP
+- Node.js
 - Linux
 - Nginx
-- Node.js
 - Databases
-- Redis
-- Docker
-- Kubernetes
-- AWS
-- Distributed Systems
+- Redis & Caching
+- Concurrency
+- Docker & Kubernetes
 - System Design
 - AI Engineering
 
 This repository will continue to grow as I learn.
+
+## Chapters
+
+1. [01-how-the-internet-works](./01-how-the-internet-works/)
+2. [02-http](./02-http/)
+3. [03-node](./03-node/)
+4. [04-linux](./04-linux/)
+5. [05-nginx](./05-nginx/)
+6. [06-database](./06-database/)
+7. [07-redis](./07-redis/)
+8. [08-concurrency](./08-concurrency/)
+9. [09-kubernetes](./09-kubernetes/) (Docker & Kubernetes)
+10. [10-system-design](./10-system-design/)
